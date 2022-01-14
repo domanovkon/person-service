@@ -1,3 +1,3 @@
 # Person service
 
-## Continuous Integration & Continuous Delivery
+Continuous Integration & Continuous Delivery
